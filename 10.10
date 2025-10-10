@@ -1,0 +1,29 @@
+//初始化
+{        >>> Read: addr= 0x000000004001380c size=4 data=0x67006467
+        >>> Write: addr= 0x000000004001380c size=4 data=0x67004467 
+//UASRT_CR1设置
+        >>> Read: addr= 0x0000000040013810 size=4 data=0x400100f9 (pc 0x08002756)
+        >>> Write: addr= 0x0000000040013810 size=4 data=0x400100f9 (pc 0x0800275c)
+        >>> Read: addr= 0x0000000040013814 size=4 data=0xffde00ff (pc 0x0800275e)
+        >>> Write: addr= 0x0000000040013814 size=4 data=0xffde00d5 (pc 0x08002764)
+        >>> Read: addr= 0x000000004001380c size=4 data=0x01faff88 (pc 0x08002766)
+        >>> Write: addr= 0x000000004001380c size=4 data=0x01faff88 (pc 0x0800276c)
+//UASRT_CR2 CR3设置
+}
+
+
+{  
+ >>> Read: addr= 0x0000000040013800 size=4 data=0xc99d9cbc (pc 0x080029a0)
+        >>> Read: addr= 0x000000004001380c size=4 data=0xff7fcf6b (pc 0x080029a2)
+        >>> Read: addr= 0x0000000040013814 size=4 data=0x24deffff (pc 0x080029a8)
+//中断处理识别
+}
+
+//写字符
+{
+ >>> Read: addr= 0x0000000040013810 size=4 data=0x000020bb (pc 0x080027f0)
+        >>> Write: addr= 0x0000000040013810 size=4 data=0x000000bb (pc 0x080027fa)
+        >>> Read: addr= 0x000000004001380c size=4 data=0x24ff80e9 (pc 0x080027fe)
+        >>> Write: addr= 0x000000004001380c size=4 data=0x24ff80ed (pc 0x08002810)
+        >>> Read: addr= 0x0000000040013814 size=4 data=0x0a330aea (pc 0x08002812)
+}
