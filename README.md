@@ -1,2 +1,4 @@
-<img width="735" height="185" alt="981baa4d-f34e-4dc9-ab8b-acb53a6fb4b3" src="https://github.com/user-attachments/assets/28482139-3e00-4b2c-90cd-e6586d82d95b" />
-<img width="1219" height="705" alt="微信图片_20250808171045_32_196" src="https://github.com/user-attachments/assets/ee281370-e37c-4441-9e50-8c37d712d6d4" />
+
+<img width="4206" height="1614" alt="流程" src="https://github.com/user-attachments/assets/97bcc738-6660-4e92-8094-81b412204211" />
+<img width="470" height="174" alt="Pattern" src="https://github.com/user-attachments/assets/80840c3b-a1be-47d9-8cd4-19a53b89a290" />
+<img width="808" height="542" alt="处理方法" src="https://github.com/user-attachments/assets/ad82c6fc-4a8a-4a64-8622-696f404d142e" />
